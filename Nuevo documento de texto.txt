@@ -1,4 +1,0 @@
-https://developers.google.com/speed/libraries/
-
-
-https://www.w3schools.com/js/default.asp
